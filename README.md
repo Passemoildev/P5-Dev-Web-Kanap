@@ -5,6 +5,7 @@ This is the front end and back end server for Project 5 of the Web Developer pat
 ### Back end Prerequisites ###
 
 You will need to have Node and `npm` installed locally on your machine.
+You will also need to install express to run the server.
 
 ### Back end Installation ###
 
