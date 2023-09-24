@@ -14,3 +14,11 @@ can then run the server with `node server`.
 The server should run on `localhost` with default port `3000`. If the
 server runs on another port for any reason, this is printed to the
 console when the server starts, e.g. `Listening on port 3001`.
+
+#### How it works
+
+First, choose a sofa to open the dedicated web page. You can personalise your sofa (color) and change the quantity of your order.
+Then you can command.
+Just enter your information in the formulary (with data verification).
+All the datas are saved in the local storage.
+Then you're on your cart. Once you validate it, you've finally ordered your sofas. Congrats !
